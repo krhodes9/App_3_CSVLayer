@@ -3,9 +3,9 @@
       #viewDiv {
         padding: 10;
         margin: 10;
-        height: 900px;
-        width: 900px;
-        background-color: indigo;
+        height: 100%;
+        width: 100%;
+        background-color: black;
       }
       #viewDiv canvas{
         filter: drop-shadow(16px 16px 10px rgba(0,0,0, 0.5));
